@@ -8,8 +8,6 @@ import { Dropdown } from 'react-bootstrap'
 import ReactDOM from 'react-dom'
 import warning from 'warning'
 
-import 'Autosuggest.scss'
-
 import Choices from './Choices'
 import Suggestions from './Suggestions'
 import ItemAdapter from './ItemAdapter'
